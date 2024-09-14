@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elicyper.github.io/sitemap.html.gz
+Sitemap: https://elicyper.github.io/app/sitemap.html.gz
+Sitemap: https://elicyper.github.io/assets/sitemap.html.gz
+Sitemap: https://elicyper.github.io/css/sitemap.html.gz
+Sitemap: https://elicyper.github.io/includes/sitemap.html.gz
+Sitemap: https://elicyper.github.io/item/sitemap.html.gz
+Sitemap: https://elicyper.github.io/src/sitemap.html.gz
